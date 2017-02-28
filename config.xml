@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFullscreenExpand="true"
+	useThumbDots="false"
+	showThumbsButton="true"
+	showExpandButton="true"
+	showOpenButton="true"
+	galleryTitle="
+	"
+	backgroundColor="rgba(102,102,102,1)"
+	textColor="rgba(0,0,204,1)"
+	thumbFrameColor="rgba(255,255,255,0.2)"
+	maxImageWidth="1600"
+	maxImageHeight="900"
+	indexPageName="gallery.html"
+
+>
+  <image imageURL="images/Vaike-Maarja_kaised_03_large.jpg"
+	thumbURL="thumbs/Vaike-Maarja_kaised_03_large.jpg"
+	linkURL="images/Vaike-Maarja_kaised_03_large.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\Vaike-Maarja_kaised_03_large.jpg">
+    <title><![CDATA[Väike-Maarja Käised]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Viru-Jaagupi_mees.jpg"
+	thumbURL="thumbs/Viru-Jaagupi_mees.jpg"
+	linkURL="images/Viru-Jaagupi_mees.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\Viru-Jaagupi_mees.jpg">
+    <title><![CDATA[Viru-Jaagupi_mees]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Viru-Jaagupi mees02.jpg"
+	thumbURL="thumbs/Viru-Jaagupi mees02.jpg"
+	linkURL="images/Viru-Jaagupi mees02.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\Viru-Jaagupi mees02.jpg">
+    <title><![CDATA[Viru-Jaagupi mees02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Viru-Jaagupi_tanu_large.jpg"
+	thumbURL="thumbs/Viru-Jaagupi_tanu_large.jpg"
+	linkURL="images/Viru-Jaagupi_tanu_large.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\Viru-Jaagupi_tanu_large.jpg">
+    <title><![CDATA[Viru-Jaagupi_tanu_large]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/modell.jpg"
+	thumbURL="thumbs/modell.jpg"
+	linkURL="images/modell.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\modell.jpg">
+    <title><![CDATA[modell]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nukud.jpg"
+	thumbURL="thumbs/nukud.jpg"
+	linkURL="images/nukud.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\nukud.jpg">
+    <title><![CDATA[nukud]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pais.jpg"
+	thumbURL="thumbs/pais.jpg"
+	linkURL="images/pais.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\pais.JPG">
+    <title><![CDATA[pais]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sark.jpg"
+	thumbURL="thumbs/sark.jpg"
+	linkURL="images/sark.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\sark.jpg">
+    <title><![CDATA[sark]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
