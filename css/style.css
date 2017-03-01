@@ -1,0 +1,242 @@
+body {
+	background-color: #f4f4f4;
+	padding: 0;
+	margin: 0;
+	font:25px , Helvetica;
+
+
+}
+
+
+/* üldised asjad*/
+.container {
+	height: 50%;
+	width: 60%;
+	margin: auto;	
+}
+
+#keskmine img {
+	width: 50%;
+	height: auto;
+}
+
+.current {
+  border-bottom: 3px solid #ffffff;
+}
+
+#vasak {
+	float: left;
+	width: 40%<
+	height: auto;
+	padding-right: 10px;
+}
+#parem {
+	float: right;
+	width: 40%;
+	height: auto;
+	padding-left: 10px;
+}
+
+
+/* header osa */
+
+header {
+	background-color: #2d5ead;
+	background-size: cover;
+	overflow:auto;
+	color: white;
+	border-bottom:#e8491d 3px solid;
+	
+}
+.logo {
+	float: left;
+
+}
+
+
+
+/* pealeht, alumine osa */
+
+#ülemineosa, #keskmine {
+	
+	font-size: 20px;	
+    padding-left: 20px;
+    padding-right: 20px;
+    
+
+  }
+  #ülemineosa h3 {
+  	width: 84%;
+  	text-align: center;
+  	padding-left: 50px;
+
+
+  }
+
+ #ülemineosa p {
+ 	padding-top: 20px;
+ 	text-align: center;
+ }
+ #keskmineosa p {
+ 	padding-top: 20px;
+ }
+
+ #kontaktpilt {
+ 	float: left;
+ 	width: 50%;
+ }
+#kontakttest {
+	float: right;
+	width: 45%;
+}
+
+#kontakttest h2 {
+	
+}
+
+#kontaktpilt img {
+	width: 80%;
+	height: auto;
+	padding-top: 20px;
+}
+
+#nimi232 {
+	font-size: 20px;
+	line-height: 250%;
+}
+
+
+
+
+
+
+#minu_menuu.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
+}
+#minu_menuu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(45, 94, 173, 1);
+    border-width: 0px;
+    border-radius: 0px;
+}
+#minu_menuu.navbar-default .navbar-nav>li>a {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#minu_menuu.navbar-default .navbar-nav>li>a:hover,
+#minu_menuu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(252, 252, 252, 1);
+}
+#minu_menuu.navbar-default .navbar-nav>.active>a,
+#minu_menuu.navbar-default .navbar-nav>.active>a:hover,
+#minu_menuu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+#minu_menuu.navbar-default .navbar-toggle {
+    border-color: #ffffff;
+}
+#minu_menuu.navbar-default .navbar-toggle:hover,
+#minu_menuu.navbar-default .navbar-toggle:focus {
+    background-color: #ffffff;
+}
+#minu_menuu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+#minu_menuu.navbar-default .navbar-toggle:hover .icon-bar,
+#minu_menuu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #2d5ead;
+}
+
+.footer-distributed{
+	background-color: #292c2f;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: normal 16px sans-serif;
+
+	padding: 45px 50px;
+	margin-top: 80px;
+}
+
+.footer-distributed .footer-left p{
+	color:  #8f9296;
+	font-size: 14px;
+	margin: 0;
+}
+
+/* Footer links */
+
+.footer-distributed p.footer-links{
+	font-size:18px;
+	font-weight: bold;
+	color:  #ffffff;
+	margin: 0 0 10px;
+	padding: 0;
+}
+
+.footer-distributed p.footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
+}
+
+.footer-distributed .footer-right{
+	float: right;
+	margin-top: 6px;
+	max-width: 180px;
+}
+
+.footer-distributed .footer-right a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+
+	margin-left: 3px;
+}
+
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 600px) {
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-right{
+		text-align: center;
+	}
+
+	.footer-distributed .footer-right{
+		float: none;
+		margin: 0 auto 20px;
+	}
+
+	.footer-distributed .footer-left p.footer-links{
+		line-height: 1.8;
+	}
+}
+
+
+
+
+@media(max-width: 768px){
+
+	.container {
+		width: 100%;
+	}
+
+	#kontaktpilt,#kontakttest{
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+
+}
