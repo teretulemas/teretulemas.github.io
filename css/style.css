@@ -15,9 +15,13 @@ body {
 	margin: auto;	
 }
 
-img {
-	width: 80%;
+#keskmine img {
+	width: 70%;
 	height: auto;
+}
+
+.current {
+  border-bottom: 3px solid #ffffff;
 }
 
 
@@ -58,12 +62,35 @@ header {
  	padding-top: 20px;
  }
 
+ #kontaktpilt {
+ 	float: left;
+ 	width: 50%;
+ }
+#kontakttest {
+	float: right;
+	width: 45%;
+}
 
+#kontakttest h2 {
+	
+}
 
+#kontaktpilt img {
+	width: 80%;
+	height: auto;
+}
+
+#nimi232 {
+	font-size: 20px;
+	line-height: 300%;
+}
 
 footer {
 	text-align: center;
 }
+
+
+
 
 #minu_menuu.navbar-default .navbar-brand {
     color: rgba(119, 119, 119, 1);
