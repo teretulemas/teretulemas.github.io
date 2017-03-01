@@ -82,7 +82,7 @@ header {
 
 #nimi232 {
 	font-size: 20px;
-	line-height: 300%;
+	line-height: 250%;
 }
 
 footer {
@@ -129,4 +129,14 @@ footer {
 #minu_menuu.navbar-default .navbar-toggle:hover .icon-bar,
 #minu_menuu.navbar-default .navbar-toggle:focus .icon-bar {
     background-color: #2d5ead;
+}
+
+
+
+@media(max-width: 768px){
+	#kontaktpilt,#kontakttest{
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
 }
