@@ -7,19 +7,20 @@
     <meta name="description" content="Ülle Murula rahvariiete valmistamine">
     <meta name='author' content="Ülle Murula FIE">
     <link rel="stylesheet" type="text/css" href="./css/style.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-   <title>Rahvariiete valmistamine | Galerii</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <title>Rahvariiete valmistamine | Kodu</title>
   </head>
-<body>
-	<header>
+  <body>
+  	<header>
   		<div class="container">
   			<div id="logo">
   				<h1>Ülle Murula FIE</h1>  				
   			</div>
-		<div id="minu_menuu" class="navbar navbar-default " role="navigation">
+  			  	<div id="minu_menuu" class="navbar navbar-default " role="navigation">
     <div class="container-fluid">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
@@ -27,31 +28,35 @@
         </div>
         <div class="collapse navbar-collapse navbar-menubuilder">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="index.html">Kodu</a>
+                <li><a class="current" href="index.html">Kodu</a>
                 </li>
-                <li><a class="current" href="teineleht.html">Galerii</a>
+                <li><a href="teineleht.html">Galerii</a>
                 </li>
-
+                <li><a href="kolmasleht.html">Kontakt</a>
+                </li>
             </ul>
         </div>
     </div>
 </div>
+	
+  				
   		</div>
   	</header>
-	<section id="gallery">
-		<!--START JUICEBOX EMBED-->
-		<script src="jbcore/juicebox.js"></script>
-		<script>
-		new juicebox({
-		containerId: "juicebox-container",
-		galleryWidth: "100%",
-		galleryHeight: "100%",
-		backgroundColor: "rgba(51,51,51,1)"
-		});
-		</script>
-		<div id="juicebox-container"></div>
-		<!--END JUICEBOX EMBED-->
-	</section>
+
+
+  	<section class="container"  id="ülemineosa">
+  		<h3>ÜLLE MURULA RAHVARÕIVASTE JA KÄSITÖÖTOODETE VALMISTAMINE</h3>
+  		<p>Kui sinu rahvariided on aja jooksul väsinud ja vajavad värskendamist või on kandmisel kannatada saanud ning nõuvad remonti siis võta ühendust !
+  		</p>
+  	</section>
+  	<section class="container" id="keskmine" >
+  		
+  		<img id="vasak" src="./images/Viru-Jaagupi_mees.jpg">
+      <img id="parem" src="./images/Viru-Jaagupi mees02.jpg">
+  		
+  	</section>
+  	
+
 <footer class="footer-distributed">
 
       <div class="footer-right">
@@ -70,7 +75,8 @@
           ·
           <a href="teineleht.html">Galerii</a>
           ·
-
+          <a href="kolmasleht.html">Kontakt</a>
+          ·
         </p>
 
         <p>Ülle Murula FIE &copy; 2016</p>
@@ -78,6 +84,7 @@
 
     </footer>
 
-
-</body>
+    
+  </body>
 </html>
+

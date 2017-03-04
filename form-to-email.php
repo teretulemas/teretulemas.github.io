@@ -28,7 +28,7 @@ $email_subject = "Kodulehelt saadetud sõnum $subject";
 $email_body = "Sulle on uus sõnum kasutajalt $name.\n".
     "Sõnumi sisu:\n $message";
     
-$to = "marko@murula.pri.ee";//<== update the email address
+$to = "ylle@murula.pri.ee";//<== update the email address
 $headers = "From: $email_from \r\n";
 $headers .= "Reply-To: $visitor_email \r\n";
 //Send the email!
@@ -40,7 +40,7 @@ mail($to,$email_subject,$email_body);
 $message = "Sobis!!";
 echo "<script type='text/javascript'>alert('$message');</script>";
 echo '<script language="javascript">';
-echo 'window.location.href="kolmasleht.html";';
+echo 'window.location.href="index.html";';
 echo '</script>';
 
 

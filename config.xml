@@ -7,61 +7,244 @@
 	showThumbsButton="true"
 	showExpandButton="true"
 	showOpenButton="true"
-	galleryTitle="
-	"
+	galleryTitle="Tehtud tööd.&#xD;&#xD;&#x9;"
 	backgroundColor="rgba(102,102,102,1)"
-	textColor="rgba(0,0,204,1)"
+	textColor="rgba(0,0,0,1)"
 	thumbFrameColor="rgba(255,255,255,0.2)"
 	maxImageWidth="1600"
 	maxImageHeight="900"
 	indexPageName="gallery.html"
 
 >
+  <image imageURL="images/006.jpg"
+	thumbURL="thumbs/006.jpg"
+	linkURL="images/006.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\006.JPG">
+    <title><![CDATA[006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/007.jpg"
+	thumbURL="thumbs/007.jpg"
+	linkURL="images/007.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\007.JPG">
+    <title><![CDATA[007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/001.jpg"
+	thumbURL="thumbs/001.jpg"
+	linkURL="images/001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\001.JPG">
+    <title><![CDATA[001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/002.jpg"
+	thumbURL="thumbs/002.jpg"
+	linkURL="images/002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\002.JPG">
+    <title><![CDATA[002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/003.jpg"
+	thumbURL="thumbs/003.jpg"
+	linkURL="images/003.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\003.JPG">
+    <title><![CDATA[003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/004.jpg"
+	thumbURL="thumbs/004.jpg"
+	linkURL="images/004.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\004.JPG">
+    <title><![CDATA[004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/005.jpg"
+	thumbURL="thumbs/005.jpg"
+	linkURL="images/005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\005.JPG">
+    <title><![CDATA[005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8496.jpg"
+	thumbURL="thumbs/IMG_8496.jpg"
+	linkURL="images/IMG_8496.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8496.jpg">
+    <title><![CDATA[IMG_8496]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ilutikand.jpg"
+	thumbURL="thumbs/ilutikand.jpg"
+	linkURL="images/ilutikand.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\ilutikand.jpg">
+    <title><![CDATA[ilutikand]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8460.jpg"
+	thumbURL="thumbs/IMG_8460.jpg"
+	linkURL="images/IMG_8460.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8460.jpg">
+    <title><![CDATA[IMG_8460]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8464.jpg"
+	thumbURL="thumbs/IMG_8464.jpg"
+	linkURL="images/IMG_8464.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8464.jpg">
+    <title><![CDATA[IMG_8464]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8466.jpg"
+	thumbURL="thumbs/IMG_8466.jpg"
+	linkURL="images/IMG_8466.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8466.jpg">
+    <title><![CDATA[IMG_8466]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8473.jpg"
+	thumbURL="thumbs/IMG_8473.jpg"
+	linkURL="images/IMG_8473.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8473.jpg">
+    <title><![CDATA[IMG_8473]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8478.jpg"
+	thumbURL="thumbs/IMG_8478.jpg"
+	linkURL="images/IMG_8478.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8478.jpg">
+    <title><![CDATA[IMG_8478]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8479.jpg"
+	thumbURL="thumbs/IMG_8479.jpg"
+	linkURL="images/IMG_8479.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8479.jpg">
+    <title><![CDATA[IMG_8479]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8481.jpg"
+	thumbURL="thumbs/IMG_8481.jpg"
+	linkURL="images/IMG_8481.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8481.jpg">
+    <title><![CDATA[IMG_8481]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_8489.jpg"
+	thumbURL="thumbs/IMG_8489.jpg"
+	linkURL="images/IMG_8489.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\IMG_8489.jpg">
+    <title><![CDATA[IMG_8489]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/kais.jpg"
+	thumbURL="thumbs/kais.jpg"
+	linkURL="images/kais.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\kais.jpg">
+    <title><![CDATA[kais]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/komplekt.jpg"
+	thumbURL="thumbs/komplekt.jpg"
+	linkURL="images/komplekt.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\komplekt.jpg">
+    <title><![CDATA[komplekt]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/komplekt1.jpg"
+	thumbURL="thumbs/komplekt1.jpg"
+	linkURL="images/komplekt1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\komplekt1.jpg">
+    <title><![CDATA[komplekt1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/komplekt2.jpg"
+	thumbURL="thumbs/komplekt2.jpg"
+	linkURL="images/komplekt2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\komplekt2.jpg">
+    <title><![CDATA[komplekt2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/kott.jpg"
+	thumbURL="thumbs/kott.jpg"
+	linkURL="images/kott.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\kott.jpg">
+    <title><![CDATA[kott]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tikand.jpg"
+	thumbURL="thumbs/tikand.jpg"
+	linkURL="images/tikand.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\tikand.jpg">
+    <title><![CDATA[tikand]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/Vaike-Maarja_kaised_03_large.jpg"
 	thumbURL="thumbs/Vaike-Maarja_kaised_03_large.jpg"
 	linkURL="images/Vaike-Maarja_kaised_03_large.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\Vaike-Maarja_kaised_03_large.jpg">
-    <title><![CDATA[Väike-Maarja Käised]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/Viru-Jaagupi_mees.jpg"
-	thumbURL="thumbs/Viru-Jaagupi_mees.jpg"
-	linkURL="images/Viru-Jaagupi_mees.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\Viru-Jaagupi_mees.jpg">
-    <title><![CDATA[Viru-Jaagupi_mees]]></title>
+	sourcePath="C:\Users\123\Downloads\Vaike-Maarja_kaised_03_large.jpg">
+    <title><![CDATA[Vaike-Maarja_kaised_03_large]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Viru-Jaagupi mees02.jpg"
 	thumbURL="thumbs/Viru-Jaagupi mees02.jpg"
 	linkURL="images/Viru-Jaagupi mees02.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\Viru-Jaagupi mees02.jpg">
+	sourcePath="C:\Users\123\Downloads\Viru-Jaagupi mees02.jpg">
     <title><![CDATA[Viru-Jaagupi mees02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Viru-Jaagupi_mees.jpg"
+	thumbURL="thumbs/Viru-Jaagupi_mees.jpg"
+	linkURL="images/Viru-Jaagupi_mees.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\Viru-Jaagupi_mees.jpg">
+    <title><![CDATA[Viru-Jaagupi_mees]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Viru-Jaagupi_tanu_large.jpg"
 	thumbURL="thumbs/Viru-Jaagupi_tanu_large.jpg"
 	linkURL="images/Viru-Jaagupi_tanu_large.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\Viru-Jaagupi_tanu_large.jpg">
+	sourcePath="C:\Users\123\Downloads\Viru-Jaagupi_tanu_large.jpg">
     <title><![CDATA[Viru-Jaagupi_tanu_large]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/modell.jpg"
-	thumbURL="thumbs/modell.jpg"
-	linkURL="images/modell.jpg"
+  <image imageURL="images/vtikand.jpg"
+	thumbURL="thumbs/vtikand.jpg"
+	linkURL="images/vtikand.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\modell.jpg">
-    <title><![CDATA[modell]]></title>
+	sourcePath="C:\Users\123\Downloads\vtikand.jpg">
+    <title><![CDATA[vtikand]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/nukud.jpg"
 	thumbURL="thumbs/nukud.jpg"
 	linkURL="images/nukud.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\nukud.jpg">
+	sourcePath="C:\Users\123\Downloads\nukud.jpg">
     <title><![CDATA[nukud]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -69,16 +252,32 @@
 	thumbURL="thumbs/pais.jpg"
 	linkURL="images/pais.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\pais.JPG">
+	sourcePath="C:\Users\123\Downloads\pais.jpg">
     <title><![CDATA[pais]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/sark.jpg"
-	thumbURL="thumbs/sark.jpg"
-	linkURL="images/sark.jpg"
+  <image imageURL="images/poll.jpg"
+	thumbURL="thumbs/poll.jpg"
+	linkURL="images/poll.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\123\Desktop\kodulehtete asjad\murula.pri.ee\images\sark.jpg">
-    <title><![CDATA[sark]]></title>
+	sourcePath="C:\Users\123\Downloads\poll.jpg">
+    <title><![CDATA[poll]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pruun.jpg"
+	thumbURL="thumbs/pruun.jpg"
+	linkURL="images/pruun.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\pruun.jpg">
+    <title><![CDATA[pruun]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tanu.jpg"
+	thumbURL="thumbs/tanu.jpg"
+	linkURL="images/tanu.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\123\Downloads\tanu.jpg">
+    <title><![CDATA[tanu]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
